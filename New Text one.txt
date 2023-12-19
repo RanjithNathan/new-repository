@@ -1,5 +1,5 @@
-<<<<<<< HEAD
+
 hi..this is ranjith kumar ...i am  working in am company as software developer..asdfqweerdxsx
-=======
-hi..this is ranjith kumar ...i am  working in am company as software
->>>>>>> 8f9d8af4f1143794b3824fb92ad42f6f8ea754b4
+
+
+
